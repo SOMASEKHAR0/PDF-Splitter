@@ -5,10 +5,8 @@ import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
-
 import org.apache.pdfbox.multipdf.Splitter;
 import org.apache.pdfbox.pdmodel.PDDocument;
-a
 public class PDFSplitterApp extends JFrame {
     private JTextField inputField;
     private JTextField outputField;
